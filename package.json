@@ -20,7 +20,7 @@
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
     "lucide-react": "^0.241.0",
-    "next": "",
+    "next": "^13.5.6",
     "next-cloudinary": "^5.20.0",
     "postcss": "8.4.24",
     "query-string": "^8.1.0",
