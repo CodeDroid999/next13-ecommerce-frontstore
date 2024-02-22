@@ -40,7 +40,7 @@
     "lucide-react": "^0.244.0",
     "next": "",
     "next-cloudinary": "",
-    "next-themes": "^0.2.1",
+    "next-themes": "",
     "postcss": "8.4.24",
     "query-string": "",
     "react": "18.2.0",
