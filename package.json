@@ -37,6 +37,7 @@
     "date-fns": "^2.30.0",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.5",
+    "firebase": "^10.9.0",
     "lucide-react": "^0.244.0",
     "next": "",
     "next-cloudinary": "",
