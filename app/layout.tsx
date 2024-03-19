@@ -10,8 +10,8 @@ import './globals.css'
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Store',
-  description: 'Store - The place for all your purchases.',
+  title: 'Computershop',
+  description: 'Computershop - Computer Shop is a trusted Online shop in Nairobi, Kenya with express delivery countrywide and a proven track record on variety and best prices.',
 }
 
 export default function RootLayout({
